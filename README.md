@@ -4,5 +4,5 @@ The Underlying Image is licensed under the Creative Commons Attribution 4.0 Inte
 
 The "Underlying Image" is the image:
 - referenced by the NFT token ID 652925
-- with the Minting Transaction Hash 0xd2b8764eeb3fc615e6d459b89e890e953b4e3059feb721875de04ae6d6db5611 on the Ethereum blockchain
+- with the minting transaction hash 0xd2b8764eeb3fc615e6d459b89e890e953b4e3059feb721875de04ae6d6db5611 on the Ethereum blockchain
 - found at https://ipfs.io/ipfs/QmThDRSu9qnwk9dSa9bH7FUUspseJ4keXDW1KgLiYaHzH3/image.png
